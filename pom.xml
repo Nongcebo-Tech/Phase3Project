@@ -2,10 +2,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.simlilearn.sportyshoes</groupId>
-  <artifactId>E-Commerce-website-for-sporty-shoes-phase-3-project</artifactId>
+  <artifactId>SportyShoeProject</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>E-Commerce-website-for-sporty-shoes-phase-3-project Maven Webapp</name>
+  <name>SportyShoeProject Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <properties>
     <maven.compiler.source>1.8</maven.compiler.source>
@@ -72,6 +72,6 @@
 
   </dependencies>
   <build>
-    <finalName>E-Commerce-website-for-sporty-shoes-phase-3-project</finalName>
+    <finalName>SportyShoeProject</finalName>
   </build>
 </project>

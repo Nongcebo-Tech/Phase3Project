@@ -16,7 +16,7 @@ table,th,td {
 </style>
 
 </head>
-<body style="background-color:yellow;">
+<body style="background-color:purple;">
 <h2>All Available Products</h2>
 <br>
 <table style="width:100%">
@@ -39,7 +39,7 @@ table,th,td {
 			
 </table>
 <br><br>
-<p style="color:green;">${message}</p>
+<p style="color:red;">${message}</p>
 
 </body>
 </html>

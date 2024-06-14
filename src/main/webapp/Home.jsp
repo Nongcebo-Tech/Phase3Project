@@ -11,8 +11,10 @@
 
 <body >
 
-<h1 align="center">E-Commerce Website for Sporty Shoes</h1><br><br>
-<h2 align="center"><span class="badge badge-success">Developed By @ ABHIJITH</span></h2>
+<h1 align="center">Sporty Shoes</h1>
+<br></br>
+<h2 align="center"><span class="badge badge-success"></span></h2>
 <p align="center"><a href="adminLogin" style="font-size:25px;">Admin Login</a></p>
+
 </body>
 </html>

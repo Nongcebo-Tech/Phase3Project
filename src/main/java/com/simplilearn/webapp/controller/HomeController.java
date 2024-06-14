@@ -1,7 +1,6 @@
 package com.simplilearn.webapp.controller;
 
 import com.simplilearn.webapp.model.*;
-
 import com.simplilearn.webapp.Dao.AdminRepository;
 import com.simplilearn.webapp.Dao.ProductRepository;
 import com.simplilearn.webapp.Dao.PurchaseReportRepository;

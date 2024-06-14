@@ -16,7 +16,7 @@ table,th,td {
 </style>
 
 </head>
-<body style="background-color:yellow;">
+<body style="background-color:cream;">
 <h2>Purchase Report</h2>
 <br>
 <table style="width:100%">

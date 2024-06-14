@@ -7,8 +7,8 @@
 <title>Sporty Shoes</title>
 <style>
 div {
-	border:10px solid black;
-	color:blue;
+	border:10px solid blue;
+	color:orange;
 	font-size:20px;
 	height:100px;
 	width:450px;
@@ -20,7 +20,7 @@ a{
 </style>
 </head>
 <body style="background-color:rgb(255,252,211)">
-<a href=Home.jsp style="color:black;text-decoration:none ;font-size:35px;font-weight:bold;">Sporty Shoes</a>
+<a href=Home.jsp style="color:black;text-decoration:underline ;font-size:35px;font-weight:extra bold;">Sporty Shoes</a>
 <br><br>
 
 <div>

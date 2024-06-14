@@ -14,7 +14,7 @@ table,th,td {
 }
 </style>
 </head>
-<body style="background-color:yellow;">
+<body style="background-color:pink;">
 <h2>Users Details</h2>
 <br>
 
